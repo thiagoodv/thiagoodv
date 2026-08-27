@@ -56,7 +56,7 @@ Tenho interesse em aprender bancos de dados e entender melhor como aplicações 
 
 ### 🎨 Design
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-#A259FF?style=for-the-badge\&logo=figma\&logoColor=white)
 
 **Figma** — criação de interfaces e protótipos
 
