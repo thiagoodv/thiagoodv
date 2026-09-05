@@ -39,7 +39,7 @@ Estou construindo minha base em programação e desenvolvimento de software, col
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 - **Python** — conhecimentos adquiridos durante a graduação
-- **C** — **em aprendizado**
+- **C** — em aprendizado
   
 
 ---
@@ -50,7 +50,7 @@ Estou construindo minha base em programação e desenvolvimento de software, col
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 - **HTML** — conhecimentos básicos
-- **CSS** — **em aprendizado**
+- **CSS** — em aprendizado
 
 
 ---
@@ -59,7 +59,7 @@ Estou construindo minha base em programação e desenvolvimento de software, col
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **MySQL** — **em aprendizado**
+- **MySQL** — em aprendizado
 
 Tenho interesse em aprender bancos de dados e entender melhor como aplicações armazenam, consultam e organizam informações.
 
