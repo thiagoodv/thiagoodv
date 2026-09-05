@@ -40,6 +40,7 @@ Estou construindo minha base em programação e desenvolvimento de software, col
 
 - **Python** — conhecimentos adquiridos durante a graduação
 - **C** — em aprendizado
+  
 
 ---
 
@@ -50,6 +51,7 @@ Estou construindo minha base em programação e desenvolvimento de software, col
 
 - **HTML** — conhecimentos básicos
 - **CSS** — em aprendizado
+
 
 ---
 
